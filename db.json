@@ -1,15 +1,9 @@
 {
-  "tests":[
+  chats:[
     {
-      "id":1,
-      "name":"dummyTest1",
-      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel lectus vitae tellus congue tincidunt. Quisque rutrum tristique semper. Aliquam ac rhoncus nisl. "
-    },
-    {
-      "id":2,
-      "name":"dummyTest2",
-      "description":"2Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel lectus vitae tellus congue tincidunt. Quisque rutrum tristique semper. Aliquam ac rhoncus nisl. "
+    sender:"Nishad",
+      reciever:"Astha",
+      message:"Hi"
     }
-    
-    ]
+  ]
 }
