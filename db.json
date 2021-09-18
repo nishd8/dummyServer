@@ -15,8 +15,9 @@
       "Domantas"
    ],
    "messages":[
+       {"sender":"Astha","reciever":"Nishad","message":"Hi","timestamp":1},
       {"sender":"Nishad","reciever":"Astha","message":"Hi","timestamp":0},
-      {"sender":"Astha","reciever":"Nishad","message":"Hi","timestamp":1},
+       {"sender":"Astha","reciever":"Nishad","message":"Nothing Much WBU?","timestamp":3},
       {"sender":"Nishad","reciever":"Astha","message":"What are you doing?","timestamp":2}   
    ]
 }
