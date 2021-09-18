@@ -13,5 +13,10 @@
       "Vilhelm",
       "Noach",
       "Domantas"
+   ],
+   "messages":[
+      {"sender":"Nishad","reciever":"Astha","message":"Hi","timestamp":0},
+      {"sender":"Astha","reciever":"Nishad","message":"Hi","timestamp":1},
+      {"sender":"Nishad","reciever":"Astha","message":"What are you doing?","timestamp":2}   
    ]
 }
