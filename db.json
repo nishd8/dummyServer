@@ -1,22 +1,3 @@
 {
-   "chats":[
-      {
-         "sender":"Nishad",
-         "reciever":"Astha",
-         "messages":[{
-         "text":"LOL",
-            "time":"1"
-         },{
-         "text":"LOL",
-            "time":"2"
-         },{
-         "text":"LOLs",
-            "time":"3"
-         },
-                    {
-         "text":"LOL",
-            "time":"4"
-         }]
-      }
-   ]
+   "chatList":["Astha","Atul","Sumit"]
 }
