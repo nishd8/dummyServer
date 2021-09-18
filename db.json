@@ -3,7 +3,20 @@
       {
          "sender":"Nishad",
          "reciever":"Astha",
-         "message":"Hi"
+         "messages":[{
+         "text":"LOL",
+            "time":"1"
+         },{
+         "text":"LOL",
+            "time":"2"
+         },{
+         "text":"LOLs",
+            "time":"3"
+         },
+                    {
+         "text":"LOL",
+            "time":"4"
+         }]
       }
    ]
 }
