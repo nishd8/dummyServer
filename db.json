@@ -1,9 +1,9 @@
 {
-  chats:[
-    {
-    sender:"Nishad",
-      reciever:"Astha",
-      message:"Hi"
-    }
-  ]
+   "chats":[
+      {
+         "sender":"Nishad",
+         "reciever":"Astha",
+         "message":"Hi"
+      }
+   ]
 }
